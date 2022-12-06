@@ -1,2 +1,2 @@
 # Yavorski Maksim
-## Student
+## Student RS school
