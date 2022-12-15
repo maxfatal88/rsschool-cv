@@ -1,0 +1,25 @@
+
+
+.main-section_container{
+   /* text-align: center;*/
+    background-color: rgb(154, 222, 225);
+    padding: 0px 110px;
+}
+
+.main-img{
+    max-width: 250px;
+}
+
+/*.h2-span-code {
+   
+}*/
+
+.footer-wrap{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-a-img {
+    height: 55;
+    width: 55px;
+}
