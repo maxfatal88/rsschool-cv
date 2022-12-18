@@ -1,17 +1,54 @@
-a {
+a{
     text-decoration: none;
     color: #000;
 }
 
+li{
+    list-style-type: none; 
+    /* text-align: left; */
+}
+
+body{
+    font-family: 'Gilroy', Arial;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 22.4px;
+ }
+ 
+ 
+ h1{
+     font-size: 42px;
+     line-height: 87.05px;
+     font-weight: bold;
+ }
+ 
+ h2{
+     font-size: 36px;
+     line-height: 28px;
+ }
+
 .main-section_container{
-   /* text-align: center;*/
+    text-align: center;
     background-color: rgb(154, 222, 225);
-    padding: 0px 110px;
+    margin: 0px auto;
+    width: 90%;
+}
+
+.header-navigation ul {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .main-img{
     max-width: 250px;
 }
+
+.summary {
+    margin: 0 auto;
+    width: 70%;
+    padding: 0 1rem;
+}
+
 
 /*.h2-span-code {
    
