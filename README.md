@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://maxfatal88.github.io/rsschool-cv/cv
