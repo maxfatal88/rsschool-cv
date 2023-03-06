@@ -10,6 +10,7 @@ I constantly improve my knowledge in information technologies.
 * CSS
 * HTML
 * Git
+* Webpack
 ## Code example
 ```
 function sum(a,b) {
